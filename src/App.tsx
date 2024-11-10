@@ -1,11 +1,11 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 // import Button from './components/button'
 import Card from './components/card'
 // import { HeaderOne, HeaderThree, HeaderTwo } from './components/heading'
 // import Breadcrumb from './components/breadcrumb'
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 // 2 type
 // components => button, input, modal, etc
 //pages =. home, about, contact, etc
